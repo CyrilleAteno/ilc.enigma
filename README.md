@@ -1,4 +1,4 @@
-# TP 4A SQR 2019-20: enigma
+# TP 4A ILC 2019-20: enigma
 Code for the German Enigma machine used in WW2.
 
 ## Questions
